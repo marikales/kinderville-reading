@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Обучение чтению по Мельниковой — для педагога</title>
+  <meta name="description" content="Педагого-читаемый курс методики обучения чтению Т. Мельниковой: метод, последовательность, уроки-образцы по возрастам, типовые ошибки.">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --theme-color: #2a7f6f;      /* спокойный зелёный — заменяемо под бренд Kinderville */
+      --sidebar-width: 320px;
+    }
+    .app-name-link img { max-width: 180px; }
+    .markdown-section { max-width: 900px; }
+    .markdown-section table { display: table; width: 100%; }
+    .sidebar-nav > ul > li > span,
+    .sidebar-nav > ul > li > strong { color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+    blockquote { border-left: 4px solid var(--theme-color); background: #f6faf9; }
+  </style>
+</head>
+<body>
+  <div id="app">Загрузка курса…</div>
+  <script>
+    window.$docsify = {
+      name: 'Чтение по Мельниковой',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      maxLevel: 4,
+      homepage: 'README.md',
+      search: {
+        placeholder: 'Поиск по курсу…',
+        noData: 'Ничего не найдено',
+        depth: 4
+      }
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+</body>
+</html>
