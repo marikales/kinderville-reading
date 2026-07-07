@@ -14,6 +14,25 @@
 
 ---
 
+## 🖨 Папки раздаток на Google Drive
+
+Все тренажёрные листы Т. Мельниковой лежат в общей папке **[«Обучение чтению (Татьяна Мельникова)» на Google Drive](https://drive.google.com/drive/folders/1KDLkB16GviPwZXFW_UevD1puvLbvTNZ7)** (доступ — для команды школы). На странице каждого урока есть прямая кнопка **🖨 Раздатки для печати**; здесь — тот же перечень одним списком.
+
+| Этап / раздел | Папка на Google Drive | Уроки |
+|---|---|---|
+| Красные гласные (печать) | [гласные печать](https://drive.google.com/drive/folders/1wJ4TAw1PBuDhg2D5jeAaMV2LxtW490b4) · [Гласные](https://drive.google.com/drive/folders/1_k_wyB4j_8n8lyVyJoDEHuRGzy9DOzXP) | [03](03-uroki-rannij-vozrast.md), [08](08-uroki-reception.md) |
+| Закрытые слоги (Г+С) | [закрытые слоги](https://drive.google.com/drive/folders/1eTPkbRiM5x9g8MO3MZhlzhgYF6jgv0ud) | [09](09-uroki-zakrytye-slogi.md) |
+| Открытые слоги · слова из 2 слогов | [открытые слоги](https://drive.google.com/drive/folders/1stgAQjzWvq_53rCq1XWokq2Dqerw8MZy) | [10](10-uroki-otkrytye-slova.md), [12](12-uroki-otkrytye-slogi-bank.md), [13](13-slova-dva-sloga.md) |
+| Слова из 3 букв (С+Г+С) | [слова из трёх букв](https://drive.google.com/drive/folders/1x7sNV6CTZvB8sBWcbbHiaG8Rgrbt9r5G) | [14](14-slova-tri-bukvy.md) |
+| Не просто слова (стечение, Ь, Е–Ё) | [не просто слова](https://drive.google.com/drive/folders/119UV7aIqwzN9gbpOe70j66zT0B32GXtP) | [15](15-ne-prosto-slova.md) |
+| Продвинутый уровень + книжки | [продвинутый уровень](https://drive.google.com/drive/folders/1gjO23jjm1vflR-Nl4qlz3djc3Hj_ZGBP) · [Книги Таня](https://drive.google.com/drive/folders/1lyiGBcaSVxE72e3Fn8OtAmrElhtHO3aJ) · [книги для чтения](https://drive.google.com/drive/folders/1_85zk-xULqmwcBLiFBVp525sFdK48vaQ) | [16](16-prodvinutyj-uroven.md) |
+| Игры/домино (зимние, новогодние) | [зимние: сценарии и домино](https://drive.google.com/drive/folders/1z3b6-Q5n3X_eNU9QKc5-WLk5jG2lzMou) | по этапам |
+| Диагностика | [Чтение. Тесты. А5 (PDF)](https://drive.google.com/file/d/1WCki2kEtzL_y9uFFjT5GqnE5oE7ah0-s/view) · [Этапы обучения чтению (PDF)](https://drive.google.com/file/d/1EY7H30d4_G5DnnUzLN8-RWJENI1lWWY_/view) | [07](07-diagnostika.md) |
+
+> ⚠️ **Одна папка ещё не на Диске.** Рабочие листы **38 уроков** (буквознакомство + закрытые слоги — папка «Комплексная программа Т. Мельниковой», по одному docx на урок) пока лежат только на локальном диске. Стоит загрузить её в ту же общую папку Google Drive — тогда подошью ссылку и к урокам 03/08.
+
+---
+
 ## A. Базовый набор на весь курс (собрать один раз)
 
 Это ядро, которое нужно с первого урока и живёт до конца. Собирается один раз, дальше только доукомплектовывается по этапам.
@@ -141,6 +160,8 @@
 ---
 
 ## E. Где лежат исходники (диск)
+
+> Первично раздатки — на **Google Drive** (ссылки в разделе [«Папки раздаток»](#🖨-папки-раздаток-на-google-drive) выше и на каждой странице урока). Таблица ниже — те же исходники на локальном диске, для того, кто готовит печать оффлайн.
 
 | Что | Путь |
 |---|---|
