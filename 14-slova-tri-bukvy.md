@@ -4,7 +4,7 @@
 > ⚠️ 38-урочная программа сюда не доходит — она обрывается на закрытых слогах. Эти уроки строим по «[Общим принципам](01-karta-metoda.md)» + тренажёрам тем же методом (сюжет + слог как действие персонажа).
 > Формат: **цель → подготовить → ход → на что смотреть**. Курсивом — присказки автора.
 
-> 🖨 **Раздатки для печати:** папка [«слова из трёх букв» на Google Drive](https://drive.google.com/drive/folders/1x7sNV6CTZvB8sBWcbbHiaG8Rgrbt9r5G). Читать первым — [«ТРЕНАЖЁР. Инструкция» (PDF)](https://drive.google.com/file/d/1wSskWAa2JOe6TOAdRdZhKpP3PvrsDU8Y/view).
+> 🖨 **Раздатки для печати:** папка [«слова из трёх букв» на Google Drive](https://drive.google.com/drive/folders/1x7sNV6CTZvB8sBWcbbHiaG8Rgrbt9r5G). Читать первым — [«ТРЕНАЖЁР. Инструкция» (PDF)](https://drive.google.com/file/d/1wJkh_Ja3Rs2kriK-dO5_Tu1XzQR2N0VI/view). Прямая ссылка к каждому уроку — в [Карте уроков](18-karta-urokov.md).
 
 ---
 

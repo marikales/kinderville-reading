@@ -4,7 +4,7 @@
 > ⚠️ 38-урочная программа сюда не доходит — она обрывается на закрытых слогах. Эта ступень строится по «Общим принципам» + тренажёрным листам, **тем же методом** (сюжет + персонажи, палец по строке, телесный образ на трудном слове).
 > Формат: **цель → подготовить → ход → на что смотреть**. Курсивом — присказки автора.
 
-> 🖨 **Раздатки для печати:** тренажёры и стихи — папка [«продвинутый уровень»](https://drive.google.com/drive/folders/1gjO23jjm1vflR-Nl4qlz3djc3Hj_ZGBP); книжки для чтения — [«Книги Таня»](https://drive.google.com/drive/folders/1lyiGBcaSVxE72e3Fn8OtAmrElhtHO3aJ) и [«книги для чтения»](https://drive.google.com/drive/folders/1_85zk-xULqmwcBLiFBVp525sFdK48vaQ) на Google Drive.
+> 🖨 **Раздатки для печати:** тренажёры и стихи — папка [«продвинутый уровень»](https://drive.google.com/drive/folders/1gjO23jjm1vflR-Nl4qlz3djc3Hj_ZGBP); книжки для чтения — [«Книги Таня»](https://drive.google.com/drive/folders/1lyiGBcaSVxE72e3Fn8OtAmrElhtHO3aJ) и [«книги для чтения»](https://drive.google.com/drive/folders/1_85zk-xULqmwcBLiFBVp525sFdK48vaQ) на Google Drive. Прямая ссылка к каждому уроку — в [Карте уроков](18-karta-urokov.md).
 
 ---
 

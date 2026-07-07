@@ -18,6 +18,8 @@
 
 Все тренажёрные листы Т. Мельниковой лежат в общей папке **[«Обучение чтению (Татьяна Мельникова)» на Google Drive](https://drive.google.com/drive/folders/1KDLkB16GviPwZXFW_UevD1puvLbvTNZ7)** (доступ — для команды школы). На странице каждого урока есть прямая кнопка **🖨 Раздатки для печати**; здесь — тот же перечень одним списком.
 
+> 🗺️ **Нужна ссылка к конкретному уроку, а не к папке этапа?** — [**Карта уроков курса**](18-karta-urokov.md): все уроки по уровням, у каждого — прямая ссылка на его PDF-лист.
+
 | Этап / раздел | Папка на Google Drive | Уроки |
 |---|---|---|
 | Красные гласные (печать) | [гласные печать](https://drive.google.com/drive/folders/1wJ4TAw1PBuDhg2D5jeAaMV2LxtW490b4) · [Гласные](https://drive.google.com/drive/folders/1_k_wyB4j_8n8lyVyJoDEHuRGzy9DOzXP) | [03](03-uroki-rannij-vozrast.md), [08](08-uroki-reception.md) |
