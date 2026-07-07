@@ -15,5 +15,12 @@
   - [Закрытые слоги (Y1)](09-uroki-zakrytye-slogi.md)
   - [Открытые слоги и слова](10-uroki-otkrytye-slova.md)
 
+- **Банк уроков-образцов (после 38 уроков)**
+  - [Открытые слоги](12-uroki-otkrytye-slogi-bank.md)
+  - [Слова из двух слогов](13-slova-dva-sloga.md)
+  - [Слова из трёх букв (С+Г+С)](14-slova-tri-bukvy.md)
+  - [Не просто слова: стечение, Ь, Е–Ё](15-ne-prosto-slova.md)
+  - [Продвинутый уровень](16-prodvinutyj-uroven.md)
+
 - **Билингвальный стык**
   - [Входы Н/В/С/Х/Е и английская фоника](05-vhody-i-styk-s-anglijskim.md)
